@@ -2,7 +2,7 @@ import whisper
 import os
 
 # Path to your audio file
-audio_file = r"C:\Users\pawan\Downloads\Untitled notebook.wav"
+audio_file = r"C:\Users\pawan\Documents\Workspace\accessibility\notebookLMAudio\Senior Accessibility Testing Interview Guide.wav"
 
 # Load Whisper model
 model = whisper.load_model("small")

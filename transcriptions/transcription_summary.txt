@@ -1,0 +1,11 @@
+Transcription Summary
+===================
+
+File: C:\Users\pawan\Documents\Workspace\audio2text\input_folder\Senior Accessibility Testing Interview Guide (1).wav
+Status: Success
+Output: transcriptions\Senior Accessibility Testing Interview Guide (1)_transcript.txt
+
+File: C:\Users\pawan\Documents\Workspace\audio2text\input_folder\Senior Accessibility Testing Interview Guide.wav
+Status: Success
+Output: transcriptions\Senior Accessibility Testing Interview Guide_transcript.txt
+

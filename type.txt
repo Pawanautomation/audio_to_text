@@ -1,0 +1,17 @@
+import { test, expect } from '@playwright/test';
+
+test.describe('Indeed Job Search Automation', () => {
+
+  test('Login and Save Session State', async ({ browser }) => {
+    // Step 1: Create a new context
+    const context = await browser.newContext();
+
+    // Step 2: Create a new page from the context
+    const page = await context.newPage();
+
+    // Step 3: Navigate to Indeed
+    await page.goto('https://www.indeed.com');
+
+    // Add additional steps for saving session state, etc.
+  });
+});
